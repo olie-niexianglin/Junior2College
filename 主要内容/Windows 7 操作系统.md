@@ -10,6 +10,8 @@
 
 <span style="background-color:gray;border-radius:0.5em;">&nbsp;&nbsp;&nbsp;&nbsp;</span> 颜色字体标记的文字是相对不太重要的内容，考核较少;
 
+:triangular_flag_on_post: 标记的文字是需要操作加深印象的内容，注重实践与记忆相结合;
+
 ### 1 课后作业
 
 要求：第一遍整体学习阶段，同学需要完成课后作业，整理成自己熟悉、易记忆的文字，提高后续备考前的快速复习
@@ -211,52 +213,45 @@ A. Linux B. Microsoft Office C. Windows D. Mac OS
 
 ------
 
-Windows 7是微软公司于2009年10月发布的一款视窗操作系统。Windows 7包含6个版本，其中Windows 7家庭高级版和Windows 7专业版是两大主力版本，前者面向家庭用户，后者针对商业用户。Windows 7家庭高级版面向家庭用户，满足家庭娱乐需求，包含所有桌面增强和多媒体功能，如Aero特效、多点触控功能、媒体中心、建立家庭网络组、手写识别等，不支持Windows域、Windows XP 模式、多语言等。Windows 7专业版面向爱好者和小企业用户，满足办公开发需求，包含加强的网络功能，如活动目录和域支持、远程桌面等，另外还有网络备份、位置感知打印、加密文件系统、演示模式（Presentation Mode）、Windows XP模式等功能。 
+Windows 7是微软公司于2009年10月发布的一款<span style="color:red;font-weight:bold">视窗</span>操作系统。Windows 7包含6个版本，其中Windows 7家庭高级版和Windows 7专业版是两大主力版本，前者面向家庭用户，后者针对商业用户。
 
-### 2.1 Windows 7的基础知识 
+### <span style="color:gray;font-weight:bold">2.1 Windows 7的基础知识 </span>
 
 Windows 7 是微软继Windows XP、Vista之后的操作系统，它比Vista性能更高，启动更快，兼容性更强，具有许多新特性和优点，如提高了屏幕触控支持和手写识别，支持虚拟硬盘，改善多内核处理器，改善了开机速度和内核等。其主要特性有： 
-     （1）更简单。Windows 7让搜索和使用信息更加简单，包括本地、网络和互联网搜索功能，直观的用户体验更加高级。
+    （1）更简单。Windows 7让搜索和使用信息更加简单，包括本地、网络和互联网搜索功能，直观的用户体验更加高级。
     （2）更安全。Windows 7包括改进的安全和功能合法性，还把数据保护和管理扩展到外围设备。
     （3）更好的连接。Windows 7进一步增强了移动工作能力，无论何时、何地，任何设备都能访问数据和应用程序。
     （4）更低的成本。Windows 7帮助企业优化它们的桌面基础设施，具有无缝操作系统、应用程序和数据移植功能
 
-
-
 #### 1. Windows 7的基础知识 
 
 如果要在电脑上运行 Windows 7，所需的基本硬件配置如下（但不仅限于此要求）：
-    CPU：主频1GHz 32位或64位处理器。
+    CPU：主频1GHz   32位或64位处理器。
     内存：1GB内存（基于32位）或2GB内存（基于64位）。
     硬盘：16GB可用硬盘空间（基于32位）或20GB可用硬盘空间（基于64位）。
     显卡：带有WDDM 1.0或更高版本驱动程序的DirectX 9图形设备。
     显示器：要求分辨率在1024×768像素及以上（低于该分辨率则无法正常显示部分功能），或可支持触摸技术的显示设备。
 
- Windows 7系统的软件需求只是指对硬盘系统的要求。安装Windows 7系统的硬盘分区必须采用NTFS结构，要确保至少有16GB 的可用空间，最好能提供40GB可用空间的分区供系统安装使用。
-
-
+ Windows 7系统的软件需求只是指对硬盘系统的要求。安装Windows 7系统的硬盘分区必须采用<span style="color:red;font-weight:bold">NTFS</span>结构，要确保至少有16GB 的可用空间，最好能提供40GB可用空间的分区供系统安装使用。
 
 #### 2. Windows 7的启动
 
 打开主机电源后，根据用户的不同设置，可以直接登录到桌面完成启动，也可以启动登录对话框，输入用户名和密码，确认后登录。
 
-
-
 #### 3. 关闭与重启计算机
 
-单击任务栏的“开始”按钮，在“开始”菜单中单击“关机”按钮<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017110132343.png" alt="image-20201017110132343" style="zoom:80%;" /> ，则在计算机完成了一系列操作后，操作系统会将计算机的电源自动关闭。单击“关闭”按钮右侧箭头，在出现的菜单中选择“重新启动”命令，可以完成计算机的重新启动。
-
-
+:triangular_flag_on_post:单击任务栏的“开始”按钮，在“开始”菜单中单击“关机”按钮<img src="../image/image-20201017110132343.png" alt="image-20201017110132343" style="zoom:80%;" /> ，则在计算机完成了一系列操作后，操作系统会将计算机的电源自动关闭。单击“关闭”按钮右侧箭头，在出现的菜单中选择“重新启动”命令，可以完成计算机的重新启动。
 
 ####  4. 键盘、鼠标的基本操作
 
-Windows 7的各种操作主要通过键盘和鼠标完成。键盘上除了常用的字母、数字和符号键以外，还有一些功能键，如Ctrl、Shift、Alt 等。功能键和其他键可以组成快捷键来使用，以方便完成某些操作。如组合键Alt1Tab 可以在打开的多个程序或窗口间切换，Alt1F4 关闭当前应用程序或窗口。鼠标是操作计算机最常用的输入设备，它快捷、方便、易学。鼠标一般有两个键，分别称为左键和右键。常用的鼠标操作主要有：
-      1）移动/指向/定位：移动鼠标，使其指向操作对象。
-      2）左击：简称“单击”，即点击鼠标左键一次。
-      3）右击：点击鼠标右键一次。
-      4）双击：连续快速点击鼠标左键两次。
-      5）释放：松开鼠标按键。
-      6）拖动：按着鼠标左（右）键不放，然后拖动鼠标。
+Windows 7的各种操作主要通过键盘和鼠标完成。键盘上除了常用的字母、数字和符号键以外，还有一些功能键，如Ctrl、Shift、Alt 等。功能键和其他键可以组成快捷键来使用，以方便完成某些操作。如组合键Alt+Tab 可以在打开的多个程序或窗口间切换，Alt+F4 关闭当前应用程序或窗口。鼠标是操作计算机最常用的输入设备，它快捷、方便、易学。鼠标一般有两个键，分别称为左键和右键。常用的鼠标操作主要有：
+
+​      1）移动/指向/定位：移动鼠标，使其指向操作对象。
+​      2）左击：简称“单击”，即点击鼠标左键一次。
+​      3）右击：点击鼠标右键一次。
+​      4）双击：连续快速点击鼠标左键两次。
+​      5）释放：松开鼠标按键。
+​      6）拖动：按着鼠标左（右）键不放，然后拖动鼠标。
 
 
 
@@ -264,7 +259,7 @@ Windows 7的各种操作主要通过键盘和鼠标完成。键盘上除了常�
 
 Windows 7 操作系统及其应用程序采用图形化界面，只要运行某个应用程序或打开某个文档，就会对应出现一个矩形区域，这个矩形区域称为窗口。虽然每个窗口的内容各不相同，但大多数窗口都具有相同的基本组成部分，如图2-1 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017110309658.png" alt="image-20201017110309658" style="zoom: 67%;" />
+<img src="../image/image-20201017110309658.png" alt="image-20201017110309658" style="zoom: 67%;" />
 
 
 
@@ -324,9 +319,9 @@ Windows 7是一个多任务操作系统，允许多个程序同时运行，但�
 （8） 数值框。数值框用于提供用户输入数字的矩形框，还可以通过箭头增加和减少数值。
 （9） 滑块。滑块控件又称跟踪条，可以在给定范围内选择值。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017122416637.png" alt="image-20201017122416637" style="zoom:80%;" />
+<img src="../image/image-20201017122416637.png" alt="image-20201017122416637" style="zoom:80%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017122612321.png" alt="image-20201017122612321" style="zoom:67%;" />
+<img src="../image/image-20201017122612321.png" alt="image-20201017122612321" style="zoom:67%;" />
 
    
 
@@ -344,7 +339,7 @@ Windows 7是一个多任务操作系统，允许多个程序同时运行，但�
 
 计算机启动完成后，显示器上显示的整个屏幕区域称为桌面（Desktop），桌面是用户与计算机交互的工作窗口。桌面有自己的背景图案，可以布局各种图标，桌面底部的条状区域叫任务栏，任务栏上有“开始”按钮、任务按钮和其他显示信息，如时钟等。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017123036552.png" alt="image-20201017123036552" style="zoom: 67%;" />
+<img src="../image/image-20201017123036552.png" alt="image-20201017123036552" style="zoom: 67%;" />
 
 #### 1. 桌面上的主要元素
 
@@ -370,9 +365,9 @@ Windows 7是一个多任务操作系统，允许多个程序同时运行，但�
 
 （1） 在桌面的空白区域单击鼠标右键，在右键菜单中选择“个性化”命令，在弹出的图2-7所示的窗口中选择“更改桌面图标”选项，则弹出“桌面图标设置”对话框，如图2-8 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017123423991.png" alt="image-20201017123423991" style="zoom:67%;" />
+<img src="../image/image-20201017123423991.png" alt="image-20201017123423991" style="zoom:67%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017123436345.png" alt="image-20201017123436345" style="zoom:86%;" />
+<img src="../image/image-20201017123436345.png" alt="image-20201017123436345" style="zoom:86%;" />
 
 
 
@@ -384,7 +379,7 @@ Windows 7是一个多任务操作系统，允许多个程序同时运行，但�
 桌面背景是Windows 桌面的背景图案，又称为桌面或者墙纸，可以通过铺设墙纸等操作美化桌面。
 在图2-7 所示的窗口中，在列表框中单击某个主题可以更改桌面背景、窗口颜色、声音和屏幕保护程序，也可以单击窗口底部的相应链接进行上述设置。例如，单击“桌面背景”链接，打开桌面背景设置窗口，如图2-9 所示，默认的图片位置是“Windows 桌面背景”，系统提供了众多新颖美观的壁纸，可以在下拉列表框中选择自己喜欢的壁纸。除了选择系统提供的图片外，还可以单击“浏览”按钮，将自己喜欢的图片设置为桌面背景。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017123638064.png" alt="image-20201017123638064" style="zoom:67%;" />
+<img src="../image/image-20201017123638064.png" alt="image-20201017123638064" style="zoom:67%;" />
 
 
 
@@ -408,7 +403,7 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 
 （1） 在桌面空白处右击，从弹出的快捷菜单中选择“小工具”命令，打开“小工具库”窗口，如图2-11 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017124112660.png" alt="image-20201017124112660" style="zoom:67%;" />
+<img src="../image/image-20201017124112660.png" alt="image-20201017124112660" style="zoom:67%;" />
 
 （2） 窗口中列出了系统自带的多个小工具，用户可以从中选择自己喜欢的个性化小工具。只需双击小工具图标，或者右击，在弹出的快捷菜单中选择“添加”命令，即可将其添加到桌面上，也可以用鼠标将小工具直接拖到桌面上。
 
@@ -421,7 +416,7 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 1） 任务栏
 任务栏是位于桌面底部的条状区域，它包含“开始”按钮及所有已打开程序的任务栏按钮。Windows 7 中的任务栏由“开始”按钮、窗口按钮和通知区域等几部分组成，如图2-12 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017124254585.png" alt="image-20201017124254585" style="zoom: 50%;" />
+<img src="../image/image-20201017124254585.png" alt="image-20201017124254585" style="zoom: 50%;" />
 
 （1）“ 开始”按钮：单击可以打开“开始”菜单。
 （2） 快速启动工具栏：单击其中的按钮即可启动相应程序。
@@ -437,7 +432,7 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
  2）“ 开始”菜单
 “开始”菜单中存放着Windows 7 的绝大多数命令和安装到系统里面的所有程序，是操作系统的中央控制区域。通过该菜单可以方便地启动应用程序、打开文件夹、对系统进行各种设置和管理。单击任务栏最左侧的“开始”按钮即可弹出“开始”菜单，如图2-13 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017124343139.png" alt="image-20201017124343139" style="zoom:50%;" />
+<img src="../image/image-20201017124343139.png" alt="image-20201017124343139" style="zoom:50%;" />
 
 - 固定程序列表。
 - 常用程序列表：显示使用频繁的程序。
@@ -474,9 +469,9 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 
 （2）单击“任务栏和「开始」菜单属性”对话框的“「 开始」 菜单”选项卡，单击“自定义”按钮，可以自定义链接、图标和菜单在「开始」菜单中的外观和行为，如图2-15 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017124732113.png" alt="image-20201017124732113" style="zoom:67%;" />
+<img src="../image/image-20201017124732113.png" alt="image-20201017124732113" style="zoom:67%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017124741911.png" alt="image-20201017124741911" style="zoom:71%;" />
+<img src="../image/image-20201017124741911.png" alt="image-20201017124741911" style="zoom:71%;" />
 
 #### 4. 设置快捷方式
 
@@ -522,7 +517,7 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 （4） 单击Windows 7 任务栏中的“Windows 资源管理器”按钮 。
  打开后的“资源管理器”窗口如图2-16 所示
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017125724417.png" alt="image-20201017125724417" style="zoom:50%;" />
+<img src="../image/image-20201017125724417.png" alt="image-20201017125724417" style="zoom:50%;" />
 
 从图2-16 中可以看出，“资源管理器”程序可以管理的项目很多，有“桌面”、“库”、“计算机”、“网络”等。Windows 资源管理器分左、右两个窗口，其中左窗口为一个树形控件视图窗口。树形控件有一个根（图2-16中的“桌面”就是根），根下面包括节点（又称项目），每个节点又可以包括下级子节点，这样形成一层层的树状组织管理形式。
 
@@ -574,11 +569,11 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 在文件夹属性对话框的“共享”选项卡中，用户可以决定是否将该文件夹设置为共享。如果
 用户选择共享该文件夹，则当该计算机与某个网络连接后，在该网络中的其他计算机可以通过网络来查看或使用该共享文件夹中的文件。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135407429.png" alt="image-20201017135407429" style="zoom:80%;" />
+<img src="../image/image-20201017135407429.png" alt="image-20201017135407429" style="zoom:80%;" />
 
 
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135419518.png" alt="image-20201017135419518" style="zoom:80%;" />
+<img src="../image/image-20201017135419518.png" alt="image-20201017135419518" style="zoom:80%;" />
 
 
 
@@ -586,7 +581,7 @@ Windows 7操作系统中自带了很多漂亮实用的小工具，它能在桌�
 
 Windows 允许在根目录下创建文件夹，文件夹下还可以再建文件夹。要新建一个文件夹，首先要定位需要新建文件夹的位置。打开“Windows 资源管理器”，然后单击需创建文件夹的磁盘驱动器。如果要在根目录下新建一个文件夹，则单击该磁盘驱动器将其打开；如果是在某个文件夹下新建一个文件（例如，要在名字为TEST 的文件夹下新建一个文件夹，新文件夹取名为LX），则需要逐级展开该磁盘驱动器下的各个节点，直到名字为TEST 的文件夹在左窗口出现为止。单击该文件夹，将其打开，然后在右窗口的任意空白处右击，出现一个快捷菜单，选择“新建”命令，打开其级联菜单，如图2-19 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135500827.png" alt="image-20201017135500827" style="zoom:67%;" />
+<img src="../image/image-20201017135500827.png" alt="image-20201017135500827" style="zoom:67%;" />
 
 单击“文件夹”菜单项，在“资源管理器”右窗口中将出现一个文件夹的图标，在图标旁会有蓝色的“新建文件夹”字样，输入新建文件夹的名字即可。
 
@@ -642,16 +637,16 @@ Windows 允许在根目录下创建文件夹，文件夹下还可以再建文件
 打开“Windows 资源管理器”，将要删除的文件或文件夹显示出来，然后选定要删除的文件或文件夹，单击“文件”菜单（或右击，将出现一个快捷菜单），选择“删除”，此时将出现“删除文件”对话框，如图2-20 所示，单击“是”，即可将选定的文件或文件夹移动到回收站。
 当然，如果用户想直接删除选定的文件或文件夹而不是移动到回收站，可以在选择“删除”前按下Shift 键不放，然后再单击“删除”，将出现图2-21 所示的对话框，单击“是”即可。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135850027.png" alt="image-20201017135850027" style="zoom:50%;" />
+<img src="../image/image-20201017135850027.png" alt="image-20201017135850027" style="zoom:50%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135858399.png" alt="image-20201017135858399" style="zoom:54%;" />
+<img src="../image/image-20201017135858399.png" alt="image-20201017135858399" style="zoom:54%;" />
 
 2） 回收站的相关操作
 双击桌面上的“回收站”图标，即可打开回收站，如图2-22 所示。
 
 如果要从回收站中恢复被删除了的文件，或从回收站中删除文件，则首先选定文件或文件夹，然后右击，将出现一个快捷菜单，如图2-23 所示。选择“还原”项，即可将选定的文件或文件夹还原到原位置；选择“删除”项，即可将选定的文件或文件夹彻底删除。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017135935427.png" alt="image-20201017135935427" style="zoom:67%;" />
+<img src="../image/image-20201017135935427.png" alt="image-20201017135935427" style="zoom:67%;" />
 
 单击“回收站”窗口中的“文件”菜单也可以实现还原和删除操作。另外，利用其中的“清空回收站”选项，可以把回收站中的文件和文件夹全部删除。
 
@@ -668,7 +663,7 @@ Windows 中，用户可以根据需要随时更改文件或文件夹的名称。
 
 Windows 7 默认的是不显示已知文件类型的扩展名，以避免用户随意修改扩展名。如果确有必要修改文件扩展名，则可以单击“工具”菜单，选择“文件夹选项”，打开“文件夹选项”对话框，切换到“查看”选项卡，如图2-24 所示，取消对“隐藏已知文件类型的扩展名”的选择，即去掉其前面的“√”，单击“确定”按钮，这样以后的文件列表将显示所有文件的扩展名。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140030091.png" alt="image-20201017140030091" style="zoom:67%;" />
+<img src="../image/image-20201017140030091.png" alt="image-20201017140030091" style="zoom:67%;" />
 
 ##### 9. 查找文件或文件夹
 
@@ -676,7 +671,7 @@ Windows 7 默认的是不显示已知文件类型的扩展名，以避免用户�
 
 （1） 打开“Windows 资源管理器”，首先通过目录地址栏定位到某一位置，接着在右上角的搜索框中输入要搜索的关键字，例如，键入“计算机”，计算机立即开始在当前位置搜索，搜索的反馈信息会显示出来，如图2-25 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140055070.png" alt="image-20201017140055070" style="zoom:67%;" />
+<img src="../image/image-20201017140055070.png" alt="image-20201017140055070" style="zoom:67%;" />
 
 （2） 单击搜索框中的空白输入区，激活筛选搜索界面，其中提供了“修改日期”和“大小”两项，可以设置根据文件修改日期和大小对文件进行搜索操作。
 
@@ -692,12 +687,12 @@ Windows 7 默认的是不显示已知文件类型的扩展名，以避免用户�
 组中的“加密内容以便保护数据”复选框，如图2-26 所示。
 （2） 单击“确定”按钮，返回“属性”对话框，接着单击“确定”按钮，弹出“确认属性更改”对话框，如图2-27 所示。选择“将更改应用于此文件夹、子文件夹和文件”单选按钮。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140130442.png" alt="image-20201017140130442" style="zoom: 67%;" />
+<img src="../image/image-20201017140130442.png" alt="image-20201017140130442" style="zoom: 67%;" />
 
 （3） 单击“确定”按钮，此时开始对选中的文件夹进行加密。
 完成加密后，可以看到被加密的文件夹的名称已经呈绿色显示，表明文件夹已经被成功加密。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140202989.png" alt="image-20201017140202989" style="zoom:67%;" />
+<img src="../image/image-20201017140202989.png" alt="image-20201017140202989" style="zoom:67%;" />
 
 
 
@@ -717,16 +712,16 @@ Windows 7 系统的一个重要新增功能是置入了压缩文件程序，因�
 
 
 1） 创建压缩
-右击要压缩的文件或文件夹，在图2-28 所示的快捷菜单中选择“发送到”→“压缩(zipped)文件夹”命令，则系统自动进行压缩，被压缩的文件或文件夹图标为<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140444121.png" alt="image-20201017140444121" style="zoom: 50%;" />。
+右击要压缩的文件或文件夹，在图2-28 所示的快捷菜单中选择“发送到”→“压缩(zipped)文件夹”命令，则系统自动进行压缩，被压缩的文件或文件夹图标为<img src="../image/image-20201017140444121.png" alt="image-20201017140444121" style="zoom: 50%;" />。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140512372.png" alt="image-20201017140512372" style="zoom:67%;" />
+<img src="../image/image-20201017140512372.png" alt="image-20201017140512372" style="zoom:67%;" />
 
 双击压缩后的文件或文件夹图标，将打开图2-29 所示窗口。
 
 2） 添加和解压缩文件
 向已经压缩好的文件夹中添加新的文件，只需直接从“资源管理器”中将文件拖到压缩文件夹即可。要将文件从文件夹中取出来，即解压缩文件，需先双击压缩文件，将该文件打开，然后从压缩文件夹中将要解压缩的文件或文件夹按Ctrl+C复制到剪贴板，再按Ctrl+V粘贴到新的位置。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017140611143.png" alt="image-20201017140611143" style="zoom: 50%;" />
+<img src="../image/image-20201017140611143.png" alt="image-20201017140611143" style="zoom: 50%;" />
 
 
 
@@ -739,9 +734,9 @@ Windows 7 系统的一个重要新增功能是置入了压缩文件程序，因�
 （1） 打开“Windows 资源管理器”，右击要设置共享的文件夹，在弹出的快捷菜单中选择“属性”，打开其属性对话框，切换至“共享”选项卡，如图2-30 所示。
 （2） 单击“高级共享”命令按钮，然后在弹出的“高级共享”对话框中选定“共享此文件夹”复选框，并输入共享名，如图2-31 所示，单击“确定”按钮即可完成该文件夹的共享设置。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017141131776.png" alt="image-20201017141131776" style="zoom:50%;" />
+<img src="../image/image-20201017141131776.png" alt="image-20201017141131776" style="zoom:50%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017141139765.png" alt="image-20201017141139765" style="zoom:50%;" />
+<img src="../image/image-20201017141139765.png" alt="image-20201017141139765" style="zoom:50%;" />
 
 另外，如果在图2-31 中单击“权限”命令按钮，则可打开“共享权限”对话框，在这里可以通过“添加 / 删除”按钮来给不同的用户分配“完全控制”、“更改”、“读取”等权限。
 
@@ -751,7 +746,7 @@ Windows 7 系统的一个重要新增功能是置入了压缩文件程序，因�
 
 ##### 2. 共享本地打印机
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017141236326.png" alt="image-20201017141236326" style="zoom: 50%;" />
+<img src="../image/image-20201017141236326.png" alt="image-20201017141236326" style="zoom: 50%;" />
 
 
 
@@ -763,7 +758,7 @@ Windows 7 系统的一个重要新增功能是置入了压缩文件程序，因�
 
 控制面板是Windows 7 操作系统自带的查看及修改系统设置的图形化工具，通过这些实用程序可以更改系统的外观和功能，对计算机的硬、软件系统进行设置。例如，可以管理打印机、显示设备、多媒体设备、键盘和鼠标等，还可以删除程序、管理文件夹、设置防火墙等。对系统的有关设置大多是通过控制面板进行的。从“开始”菜单中选择“控制面板”就可以打开Windows 7系统的控制面板，如图2-33 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017155142538.png" alt="image-20201017155142538" style="zoom:50%;" />
+<img src="../image/image-20201017155142538.png" alt="image-20201017155142538" style="zoom:50%;" />
 
 
 
@@ -781,7 +776,7 @@ Windows 7 支持不同国家和地区的多种自然语言，但是在安装时�
 
 在“控制面板”窗口中单击“时钟、语言和区域”链接，即可打开图2-34 所示窗口。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017164224960.png" alt="image-20201017164224960" style="zoom: 50%;" />
+<img src="../image/image-20201017164224960.png" alt="image-20201017164224960" style="zoom: 50%;" />
 
 #### 1. 日期 / 时间设置
 
@@ -790,7 +785,7 @@ Windows 7 支持不同国家和地区的多种自然语言，但是在安装时�
     利用“附加时钟”选项卡，可以显示其他时区的时间，并可以通过任务栏时钟等方式查看此附加时钟。
     利用“Internet 时间”选项卡，可以使计算机与Internet 时间服务器同步，这有助于确保系统时钟的准确性。如果要进行网络同步，必须将计算机连接到Internet。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017164932329.png" alt="image-20201017164932329" style="zoom: 67%;" />
+<img src="../image/image-20201017164932329.png" alt="image-20201017164932329" style="zoom: 67%;" />
 
 #### 2. 区域设置 
 
@@ -800,7 +795,7 @@ Windows 7 支持不同国家和地区的多种自然语言，但是在安装时�
     利用“键盘和语言”选项卡，可以更改键盘和输入语言。
     单击“管理”选项卡中的“更改系统区域设置”按钮，可以设置不同程序中显示文本所使用的语言，而单击“复制设置”按钮，可以将所做的设置复制到所选的帐户中。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017165034469.png" alt="image-20201017165034469" style="zoom: 67%;" />
+<img src="../image/image-20201017165034469.png" alt="image-20201017165034469" style="zoom: 67%;" />
 
 
 
@@ -811,9 +806,9 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 （1） 打开图2-36 所示的“区域和语言”对话框，切换至“键盘和语言”选项卡，单击“更改键盘”按钮，打开“文本服务和输入语言”对话框，如图2-37 所示。
 （2） 在“常规”选项卡中单击“添加”按钮，打开“添加输入语言”对话框，如图2-38 所示。在列表框中选择想要添加的输入法，单击“确定”按钮完成设置。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017200050477.png" alt="image-20201017200050477" style="zoom:67%;" />
+<img src="../image/image-20201017200050477.png" alt="image-20201017200050477" style="zoom:67%;" />
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017200157092.png" alt="image-20201017200157092" style="zoom:85%;" />
+<img src="../image/image-20201017200157092.png" alt="image-20201017200157092" style="zoom:85%;" />
 
 
 
@@ -826,11 +821,11 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 4） 输入法的切换
 如果系统中安装了两种以上的输入法，则可以通过任务栏上的输入法指示器来选择不同的输入法。首先单击任务栏上的输入法指示器，打开图2-40 所示的输入法选择菜单，然后单击要使用的输入法即可。也可以按Ctrl + Shift 组合键在各输入法之间进行切换。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017200250318.png" alt="image-20201017200250318" style="zoom: 67%;" />
+<img src="../image/image-20201017200250318.png" alt="image-20201017200250318" style="zoom: 67%;" />
 
 
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017200306760.png" alt="image-20201017200306760" style="zoom:50%;" />
+<img src="../image/image-20201017200306760.png" alt="image-20201017200306760" style="zoom:50%;" />
 
 ### 4.2 硬件和声音
 
@@ -842,14 +837,14 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 
 打印机是用户经常使用的设备之一，安装打印机和安装其他设备一样，必须安装打印机驱动程序。为了方便用户查看和使用打印机，在“开始”菜单中专门设置了“设备和打印机”项目。单击“开始”→“设备和打印机”，则打开“设备和打印机”窗口，如图2-41 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201156597.png" alt="image-20201017201156597" style="zoom: 50%;" />
+<img src="../image/image-20201017201156597.png" alt="image-20201017201156597" style="zoom: 50%;" />
 
 
 
  1） 添加打印机
 单击“控制面板”窗口中的“硬件和声音”链接，在弹出的“硬件和声音”窗口中单击“设备和打印机”下的“添加打印机”链接，或直接在图2-41 中单击“添加打印机”链接，都将打开图2-42 所示的“添加打印机”对话框。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201307044.png" alt="image-20201017201307044" style="zoom:50%;" />
+<img src="../image/image-20201017201307044.png" alt="image-20201017201307044" style="zoom:50%;" />
 
 单击“添加本地打印机”选项或“添加网络、无线或Bluetooth 打印机”，单击“下一步”按钮，将执行“添加打印机”向导，安装向导将逐步提示用户选择打印端口、选择制造商和型号、打印机命名、是否共享、打印测试页等，最后安装Windows 7 系统下的打印机驱动程序。
 
@@ -865,13 +860,13 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 
 单击“控制面板”窗口中的“硬件和声音”链接，在弹出的“硬件和声音”窗口中单击“鼠标”链接，将打开“鼠标属性”对话框，如图2-43 所示。该对话框中有“鼠标键”、“指针”、“指针选项”、“滑轮”和“硬件”选项卡，利用这些选项卡，可以查看及修改鼠标的常用属性，如切换主要和次要的按钮、设置双击的速度、启用单击锁定、设置鼠标指针形状、设置鼠标移动速度、设置鼠标滑轮滑动时屏幕滚动的行数等。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201425219.png" alt="image-20201017201425219" style="zoom:50%;" />
+<img src="../image/image-20201017201425219.png" alt="image-20201017201425219" style="zoom:50%;" />
 
 #### 3. 声音设置
 
 单击“控制面板”窗口中的“硬件和声音”链接，在弹出的“硬件和声音”窗口中单击“更改系统声音”链接，将打开“声音”对话框，如图2-44 所示，在此可以实现将Windows 7 系统声音变为各色各样的声音效果。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201435158.png" alt="image-20201017201435158" style="zoom:60%;" />
+<img src="../image/image-20201017201435158.png" alt="image-20201017201435158" style="zoom:60%;" />
 
 
 在“程序事件”列表框中有很多以Windows 为目录的根式结构，那就是Windows 7 系统中各个程序进行时所一一对应的声音设定。
@@ -892,7 +887,7 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 
 在“控制面板”窗口中单击“程序”链接下的“卸载程序”链接，将打开“程序和功能”窗口，如图2-45 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201613188.png" alt="image-20201017201613188" style="zoom:50%;" />
+<img src="../image/image-20201017201613188.png" alt="image-20201017201613188" style="zoom:50%;" />
 
 
 
@@ -904,7 +899,7 @@ Windows 7 操作系统中文版自带微软拼音输入法等多种中文输入�
 
 Windows 7 时，一般是根据安装时计算机的配置来安装相应的组件的。单击“程序和功能”窗口左侧的“打开或关闭Windows 功能”链接，打开“Windows 功能”窗口，如图2-46 所示，可以通过选定复选框的方式打开Windows 的某些功能。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201702318.png" alt="image-20201017201702318" style="zoom:50%;" />
+<img src="../image/image-20201017201702318.png" alt="image-20201017201702318" style="zoom:50%;" />
 
 ### 4.4 网络和Internet
 
@@ -912,7 +907,7 @@ Windows 7 时，一般是根据安装时计算机的配置来安装相应的组�
 
 双击桌面上的“网络”图标，将打开“网络”文件夹，如图2-47 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201811214.png" alt="image-20201017201811214" style="zoom:50%;" />
+<img src="../image/image-20201017201811214.png" alt="image-20201017201811214" style="zoom:50%;" />
 
 用户双击网络中某台计算机图标，即可登录到该计算机，对它的共享资源进行访问。这样，用户就可以根据需要在不同的计算机之间进行数据的复制、移动、删除等操作。对所连接的计算机的操作和对本地计算机的操作相同。
 
@@ -942,20 +937,20 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
  管理员类型的帐户可以创建一个新的帐户，具体操作如下：
 （1） 使用管理员帐户登录计算机，打开控制面板，单击“用户帐户和家庭安全”链接，单击“用户帐户”链接，弹出“用户帐户”窗口，如图2-48 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017201945835.png" alt="image-20201017201945835" style="zoom:50%;" />
+<img src="../image/image-20201017201945835.png" alt="image-20201017201945835" style="zoom:50%;" />
 
 （2） 单击“管理其他帐户”链接，在弹出的窗口中单击“创建一个新帐户”链接，出现“创建新帐户”窗口，如图2-49 所示。在该窗口中填写新帐户名并选择相应的帐户类型，填写完成后单击“创建帐户”按钮即可完成帐户创建。 
 
 也可以直接在“控制面板”窗口中单击“用户帐户和家庭安全”链接下的“添加或删除用户帐户”链接，在出现的“管理帐户”窗口中单击“创建一个新帐户”链接，也可弹出图2-49 所示
 窗口。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202023672.png" alt="image-20201017202023672" style="zoom:50%;" />
+<img src="../image/image-20201017202023672.png" alt="image-20201017202023672" style="zoom:50%;" />
 
 #### 3. 更改帐户
 
 在图2-48 所示的“用户帐户”窗口中单击“管理其他帐户”链接，在出现的“管理帐户”窗口中单击欲更改的帐户名称，弹出“更改帐户”窗口，如图2-50 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202055631.png" alt="image-20201017202055631" style="zoom:50%;" />
+<img src="../image/image-20201017202055631.png" alt="image-20201017202055631" style="zoom:50%;" />
 
 根据窗口左侧的相关链接，可以完成管理员类型帐户更改名称、为该帐户创建密码、更改帐户图片、更改帐户类型及删除帐户等操作。
 
@@ -972,7 +967,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 画图”是一个用于绘制、调色和编辑图片的程序，用户可以使用它绘制黑白或彩色的图形，并可将这些图形存为位图文件（.bmp 文件），可以打印，也可以将它作为桌面背景，或者粘贴到另一个文档中，还可以使用“画图”查看和编辑扫描的照片等。
  “画图”程序主窗口如图2-52 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202450403.png" alt="image-20201017202450403" style="zoom:50%;" />
+<img src="../image/image-20201017202450403.png" alt="image-20201017202450403" style="zoom:50%;" />
 
 用绘图工具在画布上绘图完毕后，通过“画图”下拉菜单中的“保存”命令可以将图片保存为一个图片格式的文件。
 
@@ -984,7 +979,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 
 “写字板”程序主窗口如图2-53 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202639873.png" alt="image-20201017202639873" style="zoom:50%;" />
+<img src="../image/image-20201017202639873.png" alt="image-20201017202639873" style="zoom:50%;" />
 
 “写字板”是Windows 系统中自带的、更为高级一些的文字编辑工具，相比“记事本”，它具备了格式编辑和排版的功能。在Windows 7 系统中，“写字板”的主要功能在界面上方一览无余，
 我们可以很方便地使用各种功能，对文档进行编辑、排版。“写字板”功能区中一共有两个选项卡，在“查看”选项卡中，我们可以为文档加上标尺或者放大、缩小进行查看，也可以更改度量单位等，这些也是新的“写字板”才具备的功能。
@@ -994,7 +989,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 “记事本”是一个文本文件编辑器，可以使用它编辑简单的文档或创建Web 页。“记事本”的使用非常简单，它编辑的文件是文本文件，这为编辑一些高级语言的源程序提供了极大方便。
 “记事本”程序主窗口如图2-54 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202724025.png" alt="image-20201017202724025" style="zoom: 50%;" />
+<img src="../image/image-20201017202724025.png" alt="image-20201017202724025" style="zoom: 50%;" />
 
 打开“记事本”后，会自动创建一个空文档，标题栏上将显示“无标题”。“记事本”是一个典型的单文档应用程序，在同一时间只能编辑一个文档，要编辑新的文档，则当前打开的文档将被关闭。
 
@@ -1006,7 +1001,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 
 通过单位转换功能，可以将面积、角度、功率、体积等的不同计量进行相互转换；日期计算功能可以很轻松地帮助我们计算倒计时等；而“工作表”菜单项下的功能则可以帮助我们计算贷款月供额、油耗等。非常贴近生活的功能给人们带来了许多便利。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017202818965.png" alt="image-20201017202818965" style="zoom:50%;" />
+<img src="../image/image-20201017202818965.png" alt="image-20201017202818965" style="zoom:50%;" />
 
 ### 5.4 截图工具
 
@@ -1018,7 +1013,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 
 选择截图模式后，整个屏幕就像被蒙上一层白纱，此时按住左键，选择要捕获的屏幕区域，然后释放鼠标，截图工作就完成了，可以使用笔、荧光笔等工具添加注释，操作完成后，在标记窗口中单击“保存截图”按钮，在弹出的“另存为”对话框中输入截图的名称，选择保存截图的位置及保存类型，然后单击“保存”按钮。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017204015699.png" alt="image-20201017204015699" style="zoom:67%;" />
+<img src="../image/image-20201017204015699.png" alt="image-20201017204015699" style="zoom:67%;" />
 
 ### 5.5  “录音机”
 
@@ -1030,7 +1025,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 
 录制完毕后单击“停止录制”按钮，就会弹出“另存为”对话框，输入文件名，选择保存位置进行保存，默认文件类型为“.wma”。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017204104918.png" alt="image-20201017204104918" style="zoom:50%;" />
+<img src="../image/image-20201017204104918.png" alt="image-20201017204104918" style="zoom:50%;" />
 
 ### 5.6 数学输入面板
 
@@ -1039,7 +1034,7 @@ Windows 7 有三种类型的用户帐户，分别是标准帐户、管理员帐�
 在日常工作中，难免需要输入公式，写作科技论文更是经常遇到公式。虽然Office 中带有公式编辑器，但输入公式时仍然需要经过多个步骤的选择，总是不那么方便。而Windows 7 操作系统提供了手写公式功能。步骤如下：
 （1） 在“开始”菜单的搜索框内输入“MIP”并回车，打开Windows 7 内置的数学输入面板组件，如图2-58 所示。
 
-<img src="C:\Users\niexi\AppData\Roaming\Typora\typora-user-images\image-20201017204203013.png" alt="image-20201017204203013" style="zoom: 50%;" />
+<img src="../image/image-20201017204203013.png" alt="image-20201017204203013" style="zoom: 50%;" />
 
 （2） 在手写区域内用鼠标或手写板写入公式。如在预览框中发现自动手写识别的公式存在错误，可以用右键框选具体公式字符，在右键菜单中显示的相应候选字符中选取正确的进行更正。
 
